@@ -12,3 +12,15 @@ body {
 }
 
 /* Other Classes for Page Styling */
+
+#navbar {
+    background-color: #18221f;
+}
+
+#navbar-text {
+    color: blueviolet;
+}
+
+.nav-item .navbarDropdown {
+    color: blueviolet;
+}
